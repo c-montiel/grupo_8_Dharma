@@ -2,8 +2,9 @@
 
 2) Definir la temática del Market Place
 
-=> Brindaremos cursos de capcitación administrativa y contable.
-=> La audiencia a la que apuntamos en general son personas con un perfil de trabajo administrativo de oficina o bien, a cualquiera
+- Brindaremos cursos de capcitación administrativa y contable.
+
+- La audiencia a la que apuntamos en general son personas con un perfil de trabajo administrativo de oficina o bien, a cualquiera
 que decida capacitarse en los sectores elegidos.
 
 a. Mi nombre es Alejandro Saez, tengo 22 años y empecé a estudiar programación porque siempre me gustó y causó intriga aprender sobre
