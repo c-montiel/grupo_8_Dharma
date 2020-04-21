@@ -1,0 +1,1 @@
+Acá dejamos los links directos a la web con los bocetos y la carpeta de diseños. Igualmente también los dejamos en el README donde está la descripción de cada integrante junto con el tema de la web y los links. Ese readme tiene todos los puntos del Sprint.
