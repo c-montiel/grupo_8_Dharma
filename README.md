@@ -15,6 +15,10 @@ programación muchas veces no hay un conjunto estructurado de pasos a seguir par
 métodos y elige ir por uno u otro camino para llegar al objetivo deseado y creo que tener esa libertda es lo que más me gusta de este
 rubro. 
 
+b. Me llamo Christian, tengo 46 años y me formé en una carrera con perfil humanístico, a la par siempre me interesó la tecnología y las posibilidades de desarrollo para las personas a través de la misma. Creo que puedo aportar al proyecto desde esa mirada.
+
+c. Me llamo Priscilla Arianna Varano , 26 años. Estudiante de economía. Mi primer acercamiento con la programación fue por curiosidad dentro de un proceso de innovación que iniciamos en la empresa donde trabajo, después entendí que es lo que me falta aprender para poder desarrollar distintos proyectos personales.
+
 3) Buscar inspiración en referentes del mercado
 
 - https://platzi.com/
@@ -61,9 +65,6 @@ Colores
 5. Gris #c7d0d8
 
 Con los colores nos pasó lo mismo que con la tipografía, todavía no nos imaginamos que color iría en cada parte pero esos vamos a usar.
-
-Logo
-
 
 
 
