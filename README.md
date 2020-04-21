@@ -39,6 +39,33 @@ Por último, agregamos Finedu porque tiene una sección de novedades que nos par
 un lado suma mucha información sobre la propia institución y además está en constante actualización, por lo que uno puede visitarla 
 regularmente e ir conociendo más sobre el lugar donde está o estará estudiando.
 
-4)
-A. CREAR CARPETA WIREFRAME (HOME, DETALLE PRODUCTO, CARRITO, FORMULARIO, FORMULARIO DE CARGA)
-B. CREAR CARPETA DESIGN (LOGO, COLORES, TIPOGRAFIA)
+4) Crear un wireframe y un boceto del sitio
+
+- HOME (https://wireframe.cc/gBC5LA)
+- DETALLE DE PRODUCTO (https://wireframe.cc/t8FnDj)
+- CARRITO (https://wireframe.cc/Qyruex)
+- FORMULARIO DE REGISTRO (https://wireframe.cc/AW6oAa)
+
+Fuentes que elegimos
+1. Inter (https://fonts.google.com/specimen/Inter?query=inter)
+2. Josefin Sans (https://fonts.google.com/specimen/Josefin+Sans?query=jose)
+3. Trocchi (https://fonts.google.com/specimen/Trocchi)
+
+Todavia no nos pusimos de acuerdo en qué seccion vamos a utilizar cada fuente. 
+
+Colores
+1. Naranja #ff914d
+2. Amarillo #ffde59
+3. Azul #023750
+4. Blanco #ffffff
+5. Gris #c7d0d8
+
+Con los colores nos pasó lo mismo que con la tipografía, todavía no nos imaginamos que color iría en cada parte pero esos vamos a usar.
+
+Logo
+
+
+
+
+
+
